@@ -17,12 +17,12 @@
 
 <figure>
    <figcaption>Пример наложения маски сегментации на видео</figcaption>
-  <img src="[](https://i.ibb.co/B2zYwdt/photo-2022-05-30-02-45-48.jpg)" alt="Маска мяча" width="640"/>
+  <img src="https://i.ibb.co/B2zYwdt/photo-2022-05-30-02-45-48.jpg" alt="Маска мяча" width="640"/>
 </figure>
 
 
 <figure>
    <figcaption>Пример построения траектории полета мяча</figcaption>
-  <img src="[]([https://i.ibb.co/B2zYwdt/photo-2022-05-30-02-45-48.jpg](https://i.ibb.co/NTKWMck/photo-2022-05-30-02-45-45.jpg)" alt="Траектория мяча" width="640"/>
+  <img src="https://i.ibb.co/NTKWMck/photo-2022-05-30-02-45-45.jpg" alt="Траектория мяча" width="1080"/>
 </figure>
 
