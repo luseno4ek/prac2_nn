@@ -9,6 +9,12 @@
 
 ##### Достигнутый скор на полном тестовом датасете, состоящем из двух игр по 8 и 9 клипов соответственно:  `0.725`
 
+##### Ознакомиться с видео-визуализацией сегментации и построения траектории мяча:
+* [Маска мяча для первой игры](https://github.com/luseno4ek/prac2_nn/tree/main/test_game_1_masks)
+* [Траектория мяча для первой игры](https://github.com/luseno4ek/prac2_nn/tree/main/test_game_1_path)
+* [Маска мяча для второй игры](https://github.com/luseno4ek/prac2_nn/tree/main/test_game_2_masks)
+* [Траектория мяча для второй игры](https://github.com/luseno4ek/prac2_nn/tree/main/test_game_2_path)
+
 Пример наложения маски сегментации на видео:
 
 ![mask](https://i.ibb.co/B2zYwdt/photo-2022-05-30-02-45-48.jpg)
