@@ -23,6 +23,6 @@
 
 <figure>
    <figcaption>Пример построения траектории полета мяча</figcaption>
-  <img src="https://i.ibb.co/NTKWMck/photo-2022-05-30-02-45-45.jpg" alt="Траектория мяча" width="1080"/>
+  <img src="https://i.ibb.co/NTKWMck/photo-2022-05-30-02-45-45.jpg" alt="Траектория мяча" width="640"/>
 </figure>
 
