@@ -15,10 +15,14 @@
 * [Маска мяча для второй игры](https://github.com/luseno4ek/prac2_nn/tree/main/test_game_2_masks)
 * [Траектория мяча для второй игры](https://github.com/luseno4ek/prac2_nn/tree/main/test_game_2_path)
 
-Пример наложения маски сегментации на видео:
+<figure>
+   <figcaption>Пример наложения маски сегментации на видео</figcaption>
+  <img src="[](https://i.ibb.co/B2zYwdt/photo-2022-05-30-02-45-48.jpg)" alt="Маска мяча" width="640"/>
+</figure>
 
-![mask](https://i.ibb.co/B2zYwdt/photo-2022-05-30-02-45-48.jpg)
 
-Пример построения траектории полета мяча:
+<figure>
+   <figcaption>Пример построения траектории полета мяча</figcaption>
+  <img src="[]([https://i.ibb.co/B2zYwdt/photo-2022-05-30-02-45-48.jpg](https://i.ibb.co/NTKWMck/photo-2022-05-30-02-45-45.jpg)" alt="Траектория мяча" width="640"/>
+</figure>
 
-![ball](https://i.ibb.co/NTKWMck/photo-2022-05-30-02-45-45.jpg)
